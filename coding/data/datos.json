@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "inventory": [
+    {
+      "name": "hello",
+      "unit_price": "789.99",
+      "stock": 89,
+      "registered_at": "2026-10-22 00:07:56"
+    }
+  ],
+  "sales": []
+}

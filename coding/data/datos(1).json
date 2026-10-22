@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "inventory": [
+    {
+      "name": "pera",
+      "unit_price": "56",
+      "stock": 0,
+      "registered_at": "2026-10-21 23:21:23"
+    },
+    {
+      "name": "un perro",
+      "unit_price": "7887",
+      "stock": 0,
+      "registered_at": "2026-10-21 23:27:02"
+    }
+  ],
+  "sales": [
+    {
+      "id": "bbf2ec05-07aa-45bf-b93c-3dfc4289deb8",
+      "created_at": "2026-10-21 23:27:19",
+      "status": "COMPLETADA",
+      "total": "7887",
+      "details": [
+        {
+          "product_name": "un perro",
+          "unit_price": "7887",
+          "quantity": 1,
+          "subtotal": "7887"
+        }
+      ]
+    }
+  ]
+}
